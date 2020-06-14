@@ -40,6 +40,6 @@ Return the total number of matching pairs of socks that John can sell.
 
 **Explanation**
 
-![Sock Match](/sock_match.png)
+![Sock Match](sock_match.png)
 
 John can match three pairs of socks.
