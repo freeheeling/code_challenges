@@ -1,0 +1,1 @@
+Have the function `first_factorial(num)` take the `num` parameter being passed and return the factorial of it. For example: if `num` = 4, then the program should return **(4 * 3 * 2 * 1)** = 24. The input will always be an integer.
